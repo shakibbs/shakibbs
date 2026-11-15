@@ -1,5 +1,15 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm Rakibul Islam Shakib, a Software Engineer and Full-Stack Developer passionate about building scalable applications, robust backend systems, and intelligent automation solutions.<br><br>I specialize in developing end-to-end web applications using Java, Python, TypeScript, React, Next.js, Spring Boot, and Django. My interests also include data engineering, AI integration, workflow automation, and system architecture.<br><br>Currently working remotely with a US-based company, contributing to compliance technology, data pipelines, and AI-powered business solutions.<br><br>I enjoy solving complex problems, exploring emerging technologies, and turning ideas into practical software solutions.
+## 👨‍💻 About Me<br><br>## 👨‍💻 About Me
+
+I'm Rakibul Islam Shakib, a Software Engineer and Full-Stack Developer focused on building scalable web applications, robust backend architectures, data-driven systems, and intelligent automation solutions.
+
+With professional experience at **Compliance IV (USA)** and **Brain Station 23 (Bangladesh)**, I've worked across software development, compliance technology, data engineering, and business process automation.
+
+My technical expertise includes Java, Python, TypeScript, JavaScript, React, Next.js, Spring Boot, Django, and FastAPI. I also work with relational databases, REST APIs, Docker, Linux, n8n, and AI-powered integrations.
+
+I'm particularly interested in backend engineering, system architecture, data pipelines, AI integration, and developing software that solves real-world business challenges.
+
+I believe in continuous learning, writing maintainable code, and transforming complex ideas into reliable, practical solutions.
 
 
 # 💻 Tech Stack:
