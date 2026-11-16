@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>## 👨‍💻 About Me
 
 I'm Rakibul Islam Shakib, a Software Engineer and Full-Stack Developer focused on building scalable web applications, robust backend architectures, data-driven systems, and intelligent automation solutions.
 
